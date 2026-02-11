@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shhreevyas.github.io/resume/sitemap.xml
